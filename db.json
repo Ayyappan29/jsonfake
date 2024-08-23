@@ -11,4 +11,38 @@
   "profile": {
     "name": "typicode"
   }
+  ai: {
+    {
+      "data": {
+          "irisrecommendationengine": {
+              "recommendations": [
+                  {
+                      "courseid": "1383",
+                      "srctype": "irisdemo"
+                  },
+                  {
+                      "courseid": "1398",
+                      "srctype": "irisdemo"
+                  },
+                  {
+                      "courseid": "1399",
+                      "srctype": "irisdemo"
+                  },
+                  {
+                      "courseid": "1397",
+                      "srctype": "irisdemo"
+                  },
+                  {
+                      "courseid": "1350",
+                      "srctype": "irisdemo"
+                  },
+                  {
+                      "courseid": "1329",
+                      "srctype": "irisdemo"
+                  }
+              ]
+          }
+      }
+  }
+  }
 }
