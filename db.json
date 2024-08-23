@@ -59,5 +59,101 @@
                 ]
             }
         }
+    },
+    "demo05ai": {
+        "data": {
+            "irisrecommendationengine": {
+                "recommendations": [
+                    {
+                        "courseid": "4415",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "4417",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "4450",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "4449",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "4444",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "4414",
+                        "srctype": "irisdemo"
+                    }
+                ]
+            }
+        }
+    },
+    "lms6sandbox": {
+        "data": {
+            "irisrecommendationengine": {
+                "recommendations": [
+                    {
+                        "courseid": "343",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "344",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "331",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "332",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "334",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "378",
+                        "srctype": "irisdemo"
+                    }
+                ]
+            }
+        }
+    },
+    "lms1sandbox": {
+        "data": {
+            "irisrecommendationengine": {
+                "recommendations": [
+                    {
+                        "courseid": "106",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "95",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "150",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "93",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "33",
+                        "srctype": "irisdemo"
+                    },
+                    {
+                        "courseid": "30",
+                        "srctype": "irisdemo"
+                    }
+                ]
+            }
+        }
     }
 }
